@@ -1,0 +1,7 @@
+name = "ultimate2sure"
+main = "workers/api.js"
+compatibility_date = "2026-01-01"
+
+[[kv_namespaces]]
+binding = "ULTIMATE_KV"
+id = "YOUR_KV_ID"
